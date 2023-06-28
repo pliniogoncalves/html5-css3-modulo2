@@ -23,3 +23,15 @@ h2{
     color: rgb(86, 143, 64);
 }
 
+.basico{
+color: rgb(86, 143, 64);
+font-weight: bold;
+}
+
+.intermediario{
+color: rgb(142, 143, 64);
+}
+
+.avancado{
+color: rgb(143, 100, 64);
+}
